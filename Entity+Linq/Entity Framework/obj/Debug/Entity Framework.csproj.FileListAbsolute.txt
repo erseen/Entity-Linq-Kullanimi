@@ -1,0 +1,30 @@
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe.config
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\bin\Debug\Entity Framework.pdb
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\bin\Debug\EntityFramework.dll
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\bin\Debug\EntityFramework.xml
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.AssemblyReference.cache
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Form1.resources
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Properties.Resources.resources
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.GenerateResource.cache
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CopyComplete
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\obj\Debug\Entity Framework.exe
+C:\Users\ersen\Desktop\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\bin\Debug\Entity Framework.exe.config
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\bin\Debug\Entity Framework.exe
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\bin\Debug\Entity Framework.pdb
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\bin\Debug\EntityFramework.dll
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\bin\Debug\EntityFramework.xml
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\obj\Debug\Entity Framework.csproj.AssemblyReference.cache
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\obj\Debug\Entity_Framework.Form1.resources
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\obj\Debug\Entity_Framework.Properties.Resources.resources
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\obj\Debug\Entity Framework.csproj.GenerateResource.cache
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\obj\Debug\Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\obj\Debug\Entity Framework.csproj.CopyComplete
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\obj\Debug\Entity Framework.exe
+C:\Users\ersen\Desktop\Entity Framework - Copy\Entity Framework\obj\Debug\Entity Framework.pdb
